@@ -26,3 +26,7 @@ dist-ssr
 
 # vscode
 .vscode
+
+
+# readme 
+./README.md
