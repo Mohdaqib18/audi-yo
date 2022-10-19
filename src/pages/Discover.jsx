@@ -13,7 +13,9 @@ const Discover = () => {
 
   const dispatch = useDispatch();
   const { activeSong, isPlaying } = useSelector((state) => state.player)
- const { data, isFetching, error} = useGetTopChartsQuery();  
+ const { data, isFetching, error} = useGetTopChartsQuery(); 
+ 
+ console.log(data)
 
  const genreTitle = 'Pop';
 
