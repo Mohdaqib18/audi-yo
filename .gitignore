@@ -30,3 +30,7 @@ dist-ssr
 
 # readme 
 /README.md
+
+# dependencies
+/node_modules
+/.env
