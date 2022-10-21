@@ -5,23 +5,20 @@ ReactJS music player App. Created a Spotify Clone with React, Redux, TailWind an
 To set up a development environment, please follow these steps:
 
 1. Clone the repo
-   ```shell
   git clone [repo url]
-   ```
+
 2. Change directory to the project directory
-   ```shell
+
     cd project1_team4_repository
-    ```
+
 3. Install the dependencies
-      ```shell
+     
      npm install
-    ```
+
 4. Run the app
-     ```shell
+
     npm run dev
-    ```
-Project will be running in the browser.
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  
 
 # Home page of Audi-Yo! Listing songs latest songs which you can click and play...
 ![Audiyo](https://user-images.githubusercontent.com/37264147/197110542-59271871-53c0-4889-81ec-fcc2e06e758c.gif)
