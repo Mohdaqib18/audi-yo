@@ -33,7 +33,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ![Audiyo3](https://user-images.githubusercontent.com/37264147/197111014-6d0d06ee-dd21-40ec-9005-297e0641eb47.gif)
 
 # Select genre from the list of genres select drop down menu to view and listen to songs related to the selected genre
-![Uploading Audiyo4.gif…]()
+![Audiyo4](https://user-images.githubusercontent.com/37264147/197112407-6d9218bb-2066-4ee2-8274-69fcda844269.gif)
+
 
 # Click on any song to play it and control fully functional music player through buttons...
 ![Audiyo5](https://user-images.githubusercontent.com/37264147/197111374-f43ed16e-8ddb-493d-aaad-ea40dd1f2387.gif)
