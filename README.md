@@ -1,5 +1,7 @@
 # audi-yo
 ReactJS music player App. Created a Spotify Clone with React, Redux, TailWind and RapidAPI. It features a modern homepage, fully-fledged music player, search, lyrics, song exploration features, search, popular music around you, worldwide top charts, and much more, this is the best music application you can currently find on YouTube.
+
+# Access my App here: https://aqib-frontend-dev-audiyo.netlify.app
                  
 ## Setup
 To set up a development environment, please follow these steps:
